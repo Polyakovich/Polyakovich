@@ -16,7 +16,6 @@
 
 <p align="left">
   -  Email: <a href="mailto:polyakovichtamas@gmail.com">polyakovichtamas@gmail.com</a><br>
-  -  LinkedIn: [polyakovichlinkedin](https://www.linkedin.com/in/tam%C3%A1s-poly%C3%A1kovich-1732b726a/).
 </p>
 
 <h2 align="left">🛠 Skills & Badges</h2>
