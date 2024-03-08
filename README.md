@@ -9,7 +9,7 @@
 
 <p align="left">
     -  I'm interested in <strong>Front End development</strong> with a passion for creating beautiful and user-friendly web applications.<br>
-    -  Right now learning <strong>JavaScript</strong> and exploring <strong>React.js</strong> to enhance my skills.<br>
+    -  Right now learning <strong>JavaScript</strong> and exploring <strong>Vue.js</strong> to enhance my skills.<br>
 </p>
 
 <h2 align="left">📫 How to reach me</h2>
